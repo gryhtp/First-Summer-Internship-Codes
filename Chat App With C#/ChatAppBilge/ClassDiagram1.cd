@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfChatApp.MVVM.Model.ContactModel">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>MVVM\Model\ContactModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.MVVM.Model.MessageModel">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAQEAAgAAAAAAAAAAAAAAAQAAAQA=</HashCode>
+      <FileName>MVVM\Model\MessageModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.MVVM.Model.UserModel">
+    <Position X="14" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>MVVM\Model\UserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.MVVM.ViewModel.MainVModel">
+    <Position X="3.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>BQEAACAAQBAAAAAEQQAAAAAEAAIAAIAAGABAIQAAAAQ=</HashCode>
+      <FileName>MVVM\ViewModel\MainVModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Core.ObservableObject">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ObservableObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfChatApp.Core.RelayCommand" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAAEAEAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.217" Collapsed="true" />
+  </Class>
+  <Class Name="WpfChatApp.Net.IO.PacketBuilder">
+    <Position X="11.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAQAAABAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Net\IO\PacketBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Net.IO.PacketReader">
+    <Position X="14" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Net\IO\PacketReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Net.Server">
+    <Position X="11.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAEAAAAEAAgAAAgBAAAAAAAACAAAAIAAAAAAA=</HashCode>
+      <FileName>Net\Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Classes.Chat">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Chat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Classes.Group">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Classes.Message">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.Classes.Person">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAGAAAEAAAEAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfChatApp.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="14" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAACAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

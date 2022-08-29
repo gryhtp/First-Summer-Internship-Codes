@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l1VSgkHMZqJn0WeiiX2nlzqEvaiRcEwiyPElcCkf23+Qh5fyPcBSow5SzqDutOhX3o/Jms7dW0QdZ8+03VfYOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guray\\OneDrive\\Masaüstü\\ChatAppBilge\\WpfChatApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guray\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Guray\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

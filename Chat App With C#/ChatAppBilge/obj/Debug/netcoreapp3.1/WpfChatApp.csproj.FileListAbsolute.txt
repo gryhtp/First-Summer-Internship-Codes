@@ -1,0 +1,109 @@
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.exe
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.deps.json
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.json
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.dev.json
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.cache
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.lref
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.g.resources
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfoInputs.cache
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfo.cs
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CoreCompileInputs.cache
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.genruntimeconfig.cache
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\Themes\ContactCard.baml
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\Themes\ChatItem.baml
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\Themes\MessageBox.baml
+C:\Users\ONUR KARACA\wpfchatapp\WpfChatApp\obj\Debug\netcoreapp3.1\Themes\StylishScrollbar.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.exe
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.deps.json
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.json
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.dev.json
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\bin\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.AssemblyReference.cache
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\Themes\ChatItem.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\Themes\ContactCard.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\Themes\MessageBox.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\Themes\StylishScrollbar.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.cache
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.lref
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.g.resources
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfoInputs.cache
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfo.cs
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\Guray\OneDrive\Masaüstü\WPFChatApp\obj\Debug\netcoreapp3.1\WpfChatApp.genruntimeconfig.cache
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.exe
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.deps.json
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.json
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.dev.json
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\ChatItem.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\ContactCard.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\MessageBox.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\StylishScrollbar.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.cache
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.lref
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.g.resources
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfoInputs.cache
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfo.cs
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CoreCompileInputs.cache
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.genruntimeconfig.cache
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CopyComplete
+C:\Users\ONUR KARACA\wpfchatapp\WPFChatAppP\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.AssemblyReference.cache
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.exe
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.deps.json
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.json
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.runtimeconfig.dev.json
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.AssemblyReference.cache
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\ChatItem.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\ContactCard.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\MessageBox.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\Themes\StylishScrollbar.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.cache
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp_MarkupCompile.lref
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.g.resources
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfoInputs.cache
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.AssemblyInfo.cs
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.csproj.CopyComplete
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.dll
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.pdb
+C:\Users\Guray\OneDrive\Masaüstü\ChatAppBilge\obj\Debug\netcoreapp3.1\WpfChatApp.genruntimeconfig.cache

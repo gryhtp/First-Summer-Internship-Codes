@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MVVM\View\**" />
+    <EmbeddedResource Remove="MVVM\View\**" />
+    <None Remove="MVVM\View\**" />
+    <Page Remove="MVVM\View\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="send.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="MVVM\Model\View\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="send.jpg" />
+  </ItemGroup>
+
+</Project>

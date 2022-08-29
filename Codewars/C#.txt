@@ -1,0 +1,117 @@
+public class Kata
+{
+  public static string CreatePhoneNumber(int[] numbers)
+  {
+    return("(" + numbers[0] + "" + numbers[1] + "" + numbers[2] + ") " + numbers[3] + "" + numbers[4] + "" + numbers[5] 
+          + "-" + numbers[6] + "" + numbers[7] + "" + numbers[8] + "" + numbers[9]);
+  }
+}
+
+
+public static class Kata
+{
+  public static int SquareSum(int[] numbers)
+  { 
+    int sum = 0;
+    
+    for (int i = 0; i < numbers.Length; i++){
+      sum += numbers[i] * numbers[i];
+    }
+    
+    return sum;
+  }
+}
+
+
+  using System;
+  public static class Paper
+  {
+    public static int Paperwork(int n, int m)
+    {
+      return n < 0 || m < 0 ? 0 : n * m;
+    }
+  }
+
+
+using System.Linq;
+namespace Solution
+{
+  public static class ArraysInversion
+  {
+    public static int[] InvertValues(int[] input)
+    {
+      int[] myArray = new int[input.Length];
+      
+      for(int i = 0; i < input.Length; i++){
+        myArray[i] = input[i] * -1;
+      }
+          
+      return (myArray);
+    }
+  }
+}
+
+
+public class Multiplier
+{
+  public static int Multiply(int x) 
+  {
+    return x % 2 == 0 ? x * 8 : x * 9;
+  }
+}  
+
+
+using System;
+
+public class Kata
+{
+  public static string AbbrevName(string name)
+  {
+    char firstName = name[0];
+    char lastName;
+    
+    char test = name[0];
+    int i = 1;
+    
+    while(!test.Equals(' ')){
+      test = name[i];
+      i++;
+    }
+    
+    lastName = name[i];
+    
+    return (Char.ToUpper(firstName) + "." + Char.ToUpper(lastName));
+    
+    
+  }
+}
+
+
+using System;
+
+public static class Kata 
+{
+    public static int summation(int num)
+    {
+      int sum = 0;
+      for(int i = 1; i <= num; i++){
+        sum += i;
+      }
+      return sum;
+    }
+}
+
+
+using System;
+
+public class LoveDetector
+{
+    public static bool lovefunc(int flower1, int flower2)
+    { 
+        if((flower1 + flower2) % 2 != 0){
+          return true;
+        }
+      return false;
+    }
+}
+
